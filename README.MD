@@ -1,4 +1,4 @@
-# INDATEK.ID Backend Test Solutions
+# INDATEK.ID Coding Test Solutions
 
 This project contains solutions to various coding test problems, implemented in Java. The solutions include problems related to balanced brackets, highest palindromes, and weighted strings. Each problem is solved in a separate Java class, and all the solutions are tested in a main class.
 
